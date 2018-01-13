@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorShop">#006064</color>
+    <color name="colorShop2">#AD1457</color>
+    <color name="colorShop3">#AD1457</color>
+    <color name="colorShop4">#FFFFFF</color>
+    <color name="colorShop5">#000000</color>
+    <color name="colorShop6">#1976D2</color>
+    <color name="colorShop8">#006064</color>
+
+    <color name="tab_checked">#F3CD70</color>
+    <color name="color_1">#FF4081</color>
+
+    <color name="color_calendar">#26A694</color>
+
+
+</resources>

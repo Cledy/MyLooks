@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".ProbadorActivity">
+
+    <include layout="@layout/content_probador" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize">
+
+        <io.codetail.widget.RevealFrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <include layout="@layout/probador_menu" />
+
+        </io.codetail.widget.RevealFrameLayout>
+
+    </FrameLayout>
+
+    <include layout="@layout/toolbar" />
+
+</FrameLayout>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyLooks</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_agregar">Agregar Prendas</string>
+    <string name="action_salir">Salir</string>
+
+
+    <string name="action_agregarSettings">Settings</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_editar">Editar</string>
+
+    <string name="action_camara">Cortar</string>
+    <string name="action_save">Guardar</string>
+
+    <string name="action_favorito">Favorito</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="action_aceptar">Aceptar</string>
+
+    <string name="title_activity_armario">ArmarioActivity</string>
+    <string name="tab1">PARTE ARRIBA</string>
+    <string name="tab2">PARTE ABAJO</string>
+    <string name="tab3">CALZADO</string>
+    <string name="tab4">VESTIDO</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_conjuntoctivity">Conjuntoctivity</string>
+    <string name="title_activity_calendario">CalendarioActivity</string>
+</resources>
